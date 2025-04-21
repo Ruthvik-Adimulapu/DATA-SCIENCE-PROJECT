@@ -49,10 +49,6 @@ Built with **Streamlit**, the app allows users to:
 - View probability scores from different models
 - Analyze key feature contributions
 
-Run it locally with:
-
-```bash
-streamlit run app/streamlit_app.py
 eg: Sample Prediction Output
 
 Country: Russia
